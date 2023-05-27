@@ -2,7 +2,7 @@
 
 A (very simple) project to convert solar-powered, cat-shaped garden lamps to omniously blinking cat demons.
 
-![Cats](doc/supernova.png)
+![Cats](doc/supernova.jpg)
 
 It uses ATtiny13 MCU running at 600 kHz (4.8 MHz clock divided by 8 by CKDIV8). I wanted to use a 128 kHz clock, but it was minimally too slow to obtain needed number of PWM levels and avoid flickering.
 
